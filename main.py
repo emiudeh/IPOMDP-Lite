@@ -5,7 +5,7 @@
 
 import numpy as np
 from BeliefMDP import BeliefMDP
-from pomdp import Pomdp
+from Pomdp import Pomdp
 from IPomdp import IPomdp
 
 states = np.array([0.8, 0, 0.2, 0])
